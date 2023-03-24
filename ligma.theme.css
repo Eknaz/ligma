@@ -18,12 +18,12 @@
   --danger-color: #982929;
   --url-color: var(--main-color);
   --background-image: url('https://images.hdqwalls.com/download/anime-girl-ocean-view-0z-2048x1152.jpg');
-  --background-shading: 100%;
+  --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 90%;
+  --background-brightness: 100%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
