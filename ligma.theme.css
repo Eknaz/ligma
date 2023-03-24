@@ -12,13 +12,13 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #5d57c1;
-  --hover-color: #323599;
+  --main-color: #4843c6;
+  --hover-color: #3c369b;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
   --background-image: url('https://images.hdqwalls.com/download/anime-girl-ocean-view-0z-2048x1152.jpg');
-  --background-shading: 10%;
+  --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -56,8 +56,8 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,0.3);
-  --muted-color: rgba(255,255,255,0.1);
+  --channel-color: rgba(255,255,255,0.4);
+  --muted-color: rgba(255,255,255,0.2);
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
